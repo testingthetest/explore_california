@@ -1,0 +1,14 @@
+#comment
+
+tempfile.txt
+.DS_Store
+Thumbs.db
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+assets/photoshop/
+assets/videos/
+!assets/videos/tour_*.mp4
+
+#Note: log/archive/access.log would not be ignored
